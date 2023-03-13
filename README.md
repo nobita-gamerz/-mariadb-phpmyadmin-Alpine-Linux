@@ -1,2 +1,2 @@
-# -mariadb-phpmyadmin-Alpine-Linux
-Install Mariadb &amp; Alpine Linux
+mariadb-phpmyadmin Alpine Linux
+Install Mariadb & Phpmyadmin Alpine Linux
